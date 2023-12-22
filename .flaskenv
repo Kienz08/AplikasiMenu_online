@@ -1,0 +1,8 @@
+FLASK_APP = main.py
+FLASK_ENV = development
+FLASK_RUN_PORT = 5050
+
+DB_HOST=
+DB_DATABASE=menu_db
+DB_USERNAME=root
+DB_PASSWORD=
